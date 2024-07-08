@@ -22,9 +22,9 @@
 * [3.2 디플로이먼트](3.pod/3.2-deployment.md)
 * [3.3 파드 템플릿](3.pod/3.3-pod-template.md)
 
-## 4. OS
+## 4. OS <a href="#4.os" id="4.os"></a>
 
-* [4.1 OS](4.-os/4.1-os.md)
+* [4.1 OS](4.os/4.1-os.md)
 
 ## 5. 네트워크 <a href="#5.network" id="5.network"></a>
 
